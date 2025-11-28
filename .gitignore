@@ -1,0 +1,35 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binary, generated with `go test -c`
+*.test
+
+# Output of `go build`
+# If you keep your binaries in a `bin` directory, you can add:
+# /bin/
+
+# Dependency directories
+# Go modules cache and vendor directory
+/vendor/
+/go.mod.bak
+/go.sum.bak
+
+# Log files
+*.log
+
+# Editor/IDE specific files
+.idea/
+.vscode/
+*.swp
+*.bak
+*.orig
+*.swo
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
